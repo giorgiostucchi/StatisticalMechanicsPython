@@ -1,1 +1,1 @@
-# StatisticalMechanicPython
+# StatisticalMechanicsPython
